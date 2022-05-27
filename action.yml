@@ -1,6 +1,7 @@
-name:'demo01'
-description:'demo1 Demo'
+name:   'demo01'
+description:    'demo1 Demo'
+author: 'hello'
 
 runs:
-  using:'node16'
-  main:'index.js'
+  using:    'node16'
+  main: 'index.js'
