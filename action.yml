@@ -1,0 +1,6 @@
+name:'demo01'
+description:'demo1 Demo'
+
+runs:
+  using:'node16'
+  main:'index.js'
