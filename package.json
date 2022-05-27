@@ -1,0 +1,23 @@
+{
+  "name": "nodejsdemo",
+  "version": "1.0.0",
+  "description": "Demo Github Actons",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gksk/demo_githubactions.git"
+  },
+  "keywords": [
+    "ḍemo",
+    "acions"
+  ],
+  "author": "gk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gksk/demo_githubactions/issues"
+  },
+  "homepage": "https://github.com/gksk/demo_githubactions#readme"
+}
