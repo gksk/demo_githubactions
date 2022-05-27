@@ -8,4 +8,4 @@ var time = today.getHours() + ":" + today.getMinutes() + ":" + today.getSeconds(
 var dateTime = date+' '+time;
 
 
-console.log('Success Demo @ '+dateTime)
+console.log('Success Demo 1@ '+dateTime)
